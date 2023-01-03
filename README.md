@@ -20,3 +20,8 @@ The accuracy was 0.917 and this is even more than enough as it is very near to 1
 	Changing the hyperparameters
 
 Changing the hyperparameters doesn’t make any difference which Is most probably due to the ‘GridSearchCV’s ability to combine all possible parameters and come up with the best ones as earlier discussed. However, rerunning the program alters the accuracy as new datasets are passed and the approach used by ‘GridSearchCV’ in training the models will also change, thereby changing the accuracy value.
+
+
+RESULTS:
+<img width="310" alt="image" src="https://user-images.githubusercontent.com/65587515/210364994-b1c3182c-89a9-4ae6-b932-7df6a8d68db5.png">
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/65587515/210365048-2b159e9a-ed35-485b-b850-57e7396f562d.png">
